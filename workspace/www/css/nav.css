@@ -1,0 +1,32 @@
+nav a {
+  text-decoration: none;
+  font-size: 20pt;
+  color: #660000;
+  margin: 1%;
+  padding: 1;
+}
+/*submenu*/
+a:hover {
+  visibility: visible;
+  opacity: 1;
+  transition-delay: 0s;
+}
+
+
+.submenu a {
+  position: absolute;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s linear 0.5s, opacity 0.5s linear; 
+    
+}
+
+
+.submenu a {
+  float: none;
+  background: #778899;
+ 
+}
+.submenu a:hover {
+  background: #99ccff;
+}

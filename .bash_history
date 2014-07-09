@@ -47,3 +47,8 @@ git status
 git add .
 git commit
 git commit
+git status
+git add .
+git commit -m "firstcommit assignment 01"
+git push
+git status
