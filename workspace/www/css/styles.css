@@ -12,6 +12,16 @@ header {
   padding: 1%;
   margin: 1%;
 }
+a {
+  text-decoration: none;
+  font-size: 16pt;
+  color: #00CCFF;
+}
+
+h3 {
+  font: sans-serif;
+  padding:1%;
+}
 article{
   padding: 1%;
   margin: 1%;
