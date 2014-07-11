@@ -13,20 +13,19 @@ a:hover {
 }
 
 
-.submenu a {
+nav.submenu a {
   position: absolute;
   visibility: hidden;
   opacity: 0;
-  transition: visibility 0s linear 0.5s, opacity 0.5s linear; 
-    
+  display: list-item;
 }
 
 
-.submenu a {
+nav a nav.submenu a {
   float: none;
   background: #778899;
  
 }
-.submenu a:hover {
+nav.submenu a:hover {
   background: #99ccff;
 }

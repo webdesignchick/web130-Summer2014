@@ -52,3 +52,11 @@ git add .
 git commit -m "firstcommit assignment 01"
 git push
 git status
+git status
+git add .
+git commit
+git commit -m "assignment responsive skeleton completed| still working on nav"
+git push
+git add .
+git commit -m "css update | still working on nav"
+git push
